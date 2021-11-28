@@ -15,3 +15,5 @@ I don't choose to deploy with Virtual Machine (VM) because it is a Infrastructur
 
 ## How the app and any other needs would have to change for you to change your decision to use Virtual Machine? 
 If my app grows to a larger scale in which I have to take control of the infrastructure such as the operating systems, CPU capacity, etc, then I would have to choose (Azure) Virtual Machine as a deployment method. Since (Azure) Virtual Machine is a IaaS (Infrastructure as a Service), it supports developers to have full access and control of the virtual machine, where they can control over the deployment and operation systems as well as have more memories for CPU, RAM, and/or storage. Using (Azure) App Service for a larger scale app would be inappropriate in this case. 
+
+URL for article https://bertelsmann-azure.azurewebsites.net/
